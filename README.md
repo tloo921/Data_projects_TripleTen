@@ -5,6 +5,7 @@ Projects I worked on while attending the BI Analyst program at TripleTen Bootcam
 https://docs.google.com/spreadsheets/d/1-ARTIDR_mRWiSXeE4reG6Qy204XO6raobcEHZoXy-So/edit?usp=sharing  
 
 | Tableau Project | 1/24 |
+
 Dashboard: https://public.tableau.com/app/profile/tina.loo/viz/Project2_17048316755860/Story1?publish=yes 
 Presentation: https://clipchamp.com/watch/adI3foOG9lo 
 - Reviewed database to create calculations and parameters applicable to specific situations 
