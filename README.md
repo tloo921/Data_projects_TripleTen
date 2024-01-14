@@ -3,7 +3,7 @@ Projects I worked on while attending the BI Analyst program at TripleTen Bootcam
 
 | Spreadsheet Project | 12/23 |
 
-https://docs.google.com/spreadsheets/d/1-ARTIDR_mRWiSXeE4reG6Qy204XO6raobcEHZoXy-So/edit?usp=sharing  
+Spreadsheet: https://docs.google.com/spreadsheets/d/1-ARTIDR_mRWiSXeE4reG6Qy204XO6raobcEHZoXy-So/edit?usp=sharing  
 
 | Tableau Project | 1/24 |
 
