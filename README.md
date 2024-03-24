@@ -2,7 +2,7 @@
 ## Projects I worked on while attending the BI Analyst program at TripleTen Bootcamp.
 
 
-<a href="https://docs.google.com/spreadsheets/d/1-ARTIDR_mRWiSXeE4reG6Qy204XO6raobcEHZoXy-So/edit?usp=sharing">  **Spreadsheet Project** </a>  
+<a href="https://docs.google.com/spreadsheets/d/1-ARTIDR_mRWiSXeE4reG6Qy204XO6raobcEHZoXy-So/edit?usp=sharing">  **Ecommerce Spreadsheet Project** </a>  
 <p align="left"> <img src="https://iconspng.com/images/google-sheets-logo.jpg" width="100" height="40"/> </a>
 
 - Constructed pivot table showing conversion rates from product page views into purchases based on raw data
